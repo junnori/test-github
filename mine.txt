@@ -3,3 +3,4 @@ mine2
 otherBranch
 내 브랜치
 버그픽스 브랜치 시작
+mine Bug Fix
